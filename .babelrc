@@ -1,0 +1,11 @@
+{
+  "presets": ["latest"],
+  "plugins": ["transform-object-rest-spread"],
+  "env": {
+    "test": {
+      "plugins": {
+
+      }
+    }
+  }
+}
